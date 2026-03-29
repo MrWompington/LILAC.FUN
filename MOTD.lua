@@ -10,16 +10,16 @@ local pineapples = {
   "Это предложение ложно.",
   "purple hack.",
   '"genuinely we should rebrand to liquorhack fr" - he was never seen again after that day',
-  "Пытка члена и яиц! А теперь — за твой член и яйца!",
   "im going to eat your leg like a subway sandwitch",
   "so ud twin",
   "welcome to absolutely nothing",
-  "im going to rip your mothers left earlobe off.",
   "STOP BANNING ME!",
   "poopoo fart fart",
   "klargyzstan is real",
   "Call of duty modern warfare 67",
-  "dog"
+  "dog",
+  "call it",
+  "it was".. math.random(0, 1) > 0.5 and "Heads" or "tails", 
 }
 
 return function()
