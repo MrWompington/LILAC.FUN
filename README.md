@@ -10,7 +10,7 @@
 ```
 "fuck it, we ball - NOW IN PURPLE!"
                                                                                  
-
+```
 ┌────────────────────────────────┐
 │      lilac.fun | "purple"      │
 ├────────────────────────────────┤
@@ -19,3 +19,4 @@
 │ made by   | wompington studios │
 │ library   | Atlanta (modified) │
 └────────────────────────────────┘
+```
